@@ -1,0 +1,8 @@
+{
+  "description": {
+    "defaultMessage": "This is an example of internationalization in React."
+  },
+  "welcome": {
+    "defaultMessage": "Welcome to our application!"
+  }
+}
