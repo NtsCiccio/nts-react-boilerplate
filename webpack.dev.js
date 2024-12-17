@@ -1,5 +1,5 @@
 // webpack.dev.js
-const { webpack } = require("webpack");
+const webpack = require("webpack");
 const { merge } = require("webpack-merge");
 const dotenv = require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
